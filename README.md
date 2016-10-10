@@ -3,6 +3,10 @@ http://www.cnblogs.com/zhangchaoyang/articles/2198946.html
 
 http://www.cnblogs.com/zhanggl/p/4999375.html
 
+http://julia00.blogspot.com/2014/12/grammarly-ginger.html
+
+http://www.playpcesor.com/2016/08/1000.html
+
 
 https://weka.wikispaces.com/Programmatic+Use
 
