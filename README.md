@@ -8,6 +8,8 @@ https://weka.wikispaces.com/Programmatic+Use
 
 http://blog.csdn.net/bryan__/article/details/52672912#comments
 
+http://www.playpcesor.com/2016/08/1000.html
+
 时空游侠第一季 
 
 D:\>javac -cp ".;weka.jar;" weka.java
